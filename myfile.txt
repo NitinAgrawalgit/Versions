@@ -1,0 +1,3 @@
+Learning Git and Github
+
+git init -> create a new git repository
