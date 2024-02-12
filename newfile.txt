@@ -1,5 +1,5 @@
 Hi, My name is Nitin Agrawal
-
 I'm 21 years old
-
 I'm learning how to use git and github
+
+I'm pursuing a degree in computer science.
